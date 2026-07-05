@@ -13,7 +13,7 @@ st.title("🛢️ Capillary Pressure Upscaling using Machine Learning")
 
 st.markdown(
 """
-# 🛢️ Capillary Pressure Curve Upscaling using Machine Learning
+
 
 ## Overview
 
